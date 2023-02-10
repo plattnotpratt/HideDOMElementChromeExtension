@@ -1,0 +1,1 @@
+document.querySelectorAll("' + request.selector + '").forEach( el => { el.style.display = "none"; console.log("Completed:", el);});
